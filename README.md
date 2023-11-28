@@ -13,3 +13,6 @@ SwiftUI 인프런 강의 내용 따라하기
 9. StackBasic : Stack 연습
 10. PaddingBasic : Padding 연습
 11. SpacerBasic : Spacer 연습
+12. ScrollViewBasic : ScrollView 연습
+13. InitEnumBasic : Init_Enum 연습
+14. ForEachLoopBasic : ForEachLoop 연습
