@@ -22,6 +22,9 @@
 		F11885432B063F180022F0AF /* StackBasic.swift in Sources */ = {isa = PBXBuildFile; fileRef = F11885422B063F180022F0AF /* StackBasic.swift */; };
 		F11885452B06439D0022F0AF /* PaddingBasic.swift in Sources */ = {isa = PBXBuildFile; fileRef = F11885442B06439D0022F0AF /* PaddingBasic.swift */; };
 		F11885472B0647800022F0AF /* SpacerBasic.swift in Sources */ = {isa = PBXBuildFile; fileRef = F11885462B0647800022F0AF /* SpacerBasic.swift */; };
+		F1F839962B15E640009ED6A0 /* ScrollViewBasic.swift in Sources */ = {isa = PBXBuildFile; fileRef = F1F839952B15E640009ED6A0 /* ScrollViewBasic.swift */; };
+		F1F839982B15E8CA009ED6A0 /* InitEnumBasic.swift in Sources */ = {isa = PBXBuildFile; fileRef = F1F839972B15E8CA009ED6A0 /* InitEnumBasic.swift */; };
+		F1F8399A2B15F3F1009ED6A0 /* ForEachLoopBasic.swift in Sources */ = {isa = PBXBuildFile; fileRef = F1F839992B15F3F1009ED6A0 /* ForEachLoopBasic.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -41,6 +44,9 @@
 		F11885422B063F180022F0AF /* StackBasic.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StackBasic.swift; sourceTree = "<group>"; };
 		F11885442B06439D0022F0AF /* PaddingBasic.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PaddingBasic.swift; sourceTree = "<group>"; };
 		F11885462B0647800022F0AF /* SpacerBasic.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SpacerBasic.swift; sourceTree = "<group>"; };
+		F1F839952B15E640009ED6A0 /* ScrollViewBasic.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScrollViewBasic.swift; sourceTree = "<group>"; };
+		F1F839972B15E8CA009ED6A0 /* InitEnumBasic.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = InitEnumBasic.swift; sourceTree = "<group>"; };
+		F1F839992B15F3F1009ED6A0 /* ForEachLoopBasic.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ForEachLoopBasic.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -86,6 +92,9 @@
 				F11885422B063F180022F0AF /* StackBasic.swift */,
 				F11885442B06439D0022F0AF /* PaddingBasic.swift */,
 				F11885462B0647800022F0AF /* SpacerBasic.swift */,
+				F1F839952B15E640009ED6A0 /* ScrollViewBasic.swift */,
+				F1F839972B15E8CA009ED6A0 /* InitEnumBasic.swift */,
+				F1F839992B15F3F1009ED6A0 /* ForEachLoopBasic.swift */,
 				F11885282B0256450022F0AF /* Assets.xcassets */,
 				F118852A2B0256450022F0AF /* Preview Content */,
 			);
@@ -170,16 +179,19 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				F1F839982B15E8CA009ED6A0 /* InitEnumBasic.swift in Sources */,
 				F118853D2B0635D50022F0AF /* ImageBasic.swift in Sources */,
 				F11885392B04EEBE0022F0AF /* GradientBasic.swift in Sources */,
 				F118853B2B04F2D00022F0AF /* IconBasic.swift in Sources */,
 				F11885412B063B270022F0AF /* BackgroundOverlayBasic.swift in Sources */,
+				F1F8399A2B15F3F1009ED6A0 /* ForEachLoopBasic.swift in Sources */,
 				F11885332B0256A10022F0AF /* TextBasic.swift in Sources */,
 				F11885272B0256440022F0AF /* ContentView.swift in Sources */,
 				F11885352B0259DA0022F0AF /* ShapeBasic.swift in Sources */,
 				F11885372B04EBC70022F0AF /* ColorBasic.swift in Sources */,
 				F11885252B0256440022F0AF /* SwiftUIBasicApp.swift in Sources */,
 				F11885472B0647800022F0AF /* SpacerBasic.swift in Sources */,
+				F1F839962B15E640009ED6A0 /* ScrollViewBasic.swift in Sources */,
 				F118853F2B0637F20022F0AF /* FrameBasic.swift in Sources */,
 				F11885452B06439D0022F0AF /* PaddingBasic.swift in Sources */,
 				F11885432B063F180022F0AF /* StackBasic.swift in Sources */,
