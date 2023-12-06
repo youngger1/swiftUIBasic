@@ -16,3 +16,11 @@ SwiftUI 인프런 강의 내용 따라하기
 12. ScrollViewBasic : ScrollView 연습
 13. InitEnumBasic : Init_Enum 연습
 14. ForEachLoopBasic : ForEachLoop 연습
+15. LazyGridBasic : LazyGrid 연습
+16. SafeAreaBasic : SafeArea 연습
+17. ButtonBasic : Button 연습
+    
+- 섹션2. SwiftUI - Data
+1. StateBasic : @State 연습
+2. ExtactViewBasic , ExtractSubViewBasic, ItemBasic : ExtractView, ExtractSubView 연습
+3. BindingBasic , BindingChild : @Binding 연습
